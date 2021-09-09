@@ -39,7 +39,7 @@ Umumnya terdapat enam tahapan dalam pembuatan model machine learning, yaitu:
 
 ## Refrensi
 
-![Edwards, Gavin. Machine Learning | An Introduction](https://towardsdatascience.com/machine-learning-an-introduction-23b84d51e6d0)
+[Edwards, Gavin. Machine Learning | An Introduction](https://towardsdatascience.com/machine-learning-an-introduction-23b84d51e6d0)
 
 Müller, Andreas C & Sarah Guido. Introduction to Machine Learning with Python. O’Reilly Media
 
